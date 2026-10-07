@@ -1,10 +1,11 @@
 # Yu-Gi-Oh! Duel Lite
 
 Duelo simplificado entre el jugador y la máquina con cartas Monster aleatorias de la API YGOProDeck.
-Desarrollo de Software III
+Desarrollo de Software III.
 Estudiantes:
-Kevin Castillo Perez
-Diego Andres Bolaños Isiquita
+
+- Kevin Castillo Perez - 2363148
+- Diego Andres Bolaños Isiquita - 2379918
 
 ## Instrucciones de ejecución
 
